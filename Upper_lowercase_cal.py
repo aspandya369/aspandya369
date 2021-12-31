@@ -12,4 +12,4 @@ def case_cal(a):#Define Function
     print("No of upper-",j)# print result
     print("No of lowwer-",k)# print result
     print("Nither upper nor lower(special ch)-",o)# print result
-case_cal("The quick Brow Fox")
+case_cal("The quick Brow Fox")#Use/recall that function
